@@ -54,7 +54,7 @@ root.render(
 //   <ul id="list">
 //     <li>Be hackathon ready</li>
 //     <li>Be job ready</li>
-//     <li>creare mobile apps with react native</li>
+//     <li>create mobile apps with react native</li>
 //   </ul>)
 
 // const h1 = document.createElement('h1')
